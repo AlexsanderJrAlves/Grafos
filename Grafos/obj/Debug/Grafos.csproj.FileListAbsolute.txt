@@ -1,0 +1,7 @@
+C:\Users\Alexsander\source\repos\Grafos\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\Alexsander\source\repos\Grafos\Grafos\bin\Debug\Grafos.exe
+C:\Users\Alexsander\source\repos\Grafos\Grafos\bin\Debug\Grafos.pdb
+C:\Users\Alexsander\source\repos\Grafos\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander\source\repos\Grafos\Grafos\obj\Debug\Grafos.exe
+C:\Users\Alexsander\source\repos\Grafos\Grafos\obj\Debug\Grafos.pdb
+C:\Users\Alexsander\source\repos\Grafos\Grafos\obj\Debug\Grafos.csprojResolveAssemblyReference.cache
